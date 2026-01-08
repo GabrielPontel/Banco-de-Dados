@@ -11,8 +11,17 @@ Repositório contendo resoluções de exercícios de atividades, listas e provas
 - Function e Procedure
 - View
 - Criação de usuários e seu gerenciamento
-## _Linguagem utilizada_:
+## _Tecnologias_:
 <div>
   <img align="center" alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white">
   <img align="center" alt="MySQL" src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white">
 </div>
+
+## _Desenvolvedor_:
+
+ <img src="https://github.com/GabrielPontel.png" width="150" alt="Foto do perfil GitHub">
+<a href="https://github.com/GabrielPontel" target="_blank">
+<h>GabrielPontel</h>
+</a>
+
+
